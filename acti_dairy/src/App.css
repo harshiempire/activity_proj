@@ -1,0 +1,40 @@
+.navbar {
+  background-color: black; /* Set the background color to black */
+}
+/* .custom-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.custom-dropdown-toggle {
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.custom-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid #ced4da;
+  border-top: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+
+.custom-dropdown-menu li {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.custom-dropdown-menu li:hover {
+  background-color: #f8f9fa;
+}
+
+.custom-dropdown-menu.show {
+  display: block;
+} */
